@@ -1,14 +1,14 @@
 layout_spectrum: 0.9354839
+typography_spectrum: 0.09498208
 color:
-  saturation: 0.8905171
+  saturation: 0.2544803
   brandStrength: 0.7885305
-  lightness: 0.7352023
+  lightness: 0.1236559
   brandColors:
     - '#220521'
     - '#AFB6AF'
     - '#716374'
     - '#DBE8E1'
     - '#F2B92C'
-  rhythmicContrast: 0.2222222
-typography_spectrum: 0.09498208
+  rhythmicContrast: 0
 name: Autoberatung
